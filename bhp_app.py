@@ -1,7 +1,5 @@
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-import re
-import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import chi2_contingency
 from sklearn.model_selection import train_test_split
